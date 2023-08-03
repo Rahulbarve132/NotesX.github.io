@@ -11,6 +11,7 @@
     background-color: #5b5b5b;
     display: flex;
     flex-wrap: wrap;
+    padding-bottom: 48px;
 }
 
 .Notes{
